@@ -21,5 +21,10 @@ namespace WindowsFormsApp1
         {
             MessageBox.Show("button1");
         }
+
+        private void button2_Click(object sender, EventArgs e)
+        {
+            MessageBox.Show("button2");
+        }
     }
 }
