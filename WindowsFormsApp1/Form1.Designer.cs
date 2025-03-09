@@ -46,6 +46,7 @@
             this.button15 = new System.Windows.Forms.Button();
             this.label1 = new System.Windows.Forms.Label();
             this.button17 = new System.Windows.Forms.Button();
+            this.button18 = new System.Windows.Forms.Button();
             this.SuspendLayout();
             // 
             // button1
@@ -224,6 +225,7 @@
             this.label1.Size = new System.Drawing.Size(46, 18);
             this.label1.TabIndex = 14;
             this.label1.Text = "label1";
+            // 
             // button17
             // 
             this.button17.Location = new System.Drawing.Point(309, 317);
@@ -234,11 +236,22 @@
             this.button17.Text = "button17";
             this.button17.UseVisualStyleBackColor = true;
             // 
+            // button18
+            // 
+            this.button18.Location = new System.Drawing.Point(311, 237);
+            this.button18.Margin = new System.Windows.Forms.Padding(4);
+            this.button18.Name = "button19";
+            this.button18.Size = new System.Drawing.Size(112, 32);
+            this.button18.TabIndex = 15;
+            this.button18.Text = "button19";
+            this.button18.UseVisualStyleBackColor = true;
+            // 
             // Form1
             // 
             this.AutoScaleDimensions = new System.Drawing.SizeF(9F, 18F);
             this.AutoScaleMode = System.Windows.Forms.AutoScaleMode.Font;
             this.ClientSize = new System.Drawing.Size(1200, 623);
+            this.Controls.Add(this.button18);
             this.Controls.Add(this.label1);
             this.Controls.Add(this.button17);
             this.Controls.Add(this.button16);
@@ -286,6 +299,7 @@
         private System.Windows.Forms.Button button15;
         private System.Windows.Forms.Label label1;
         private System.Windows.Forms.Button button17;
+        private System.Windows.Forms.Button button18;
     }
 }
 
