@@ -71,5 +71,10 @@ namespace WindowsFormsApp1
         {
             int a = 456;
         }
+
+        void test4()
+        {
+            int a = 123;
+        }
     }
 }
