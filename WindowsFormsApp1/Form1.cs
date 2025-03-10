@@ -91,5 +91,10 @@ namespace WindowsFormsApp1
         {
             int a = 888;
         }
+
+        void test8()
+        {
+            int a = 999;
+        }
     }
 }
