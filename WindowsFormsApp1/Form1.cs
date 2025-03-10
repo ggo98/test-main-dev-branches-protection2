@@ -96,5 +96,10 @@ namespace WindowsFormsApp1
         {
             int a = 999;
         }
+
+        void test9()
+        {
+            int a = 666;
+        }
     }
 }
